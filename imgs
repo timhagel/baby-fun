@@ -1,0 +1,14 @@
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <meta charset="utf-8">
+     <title>imgs</title>
+   </head>
+   <body>
+
+    <img src="imgres.jpg" />
+
+    <img src="images 3.jpg" />
+
+   </body>
+ </html>
